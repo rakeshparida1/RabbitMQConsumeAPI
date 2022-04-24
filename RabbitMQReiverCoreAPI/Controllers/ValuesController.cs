@@ -46,7 +46,7 @@ namespace RabbitMQReiverCoreAPI.Controllers
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public void Deleteuser(int id)
         {
         }
         [HttpPost("savedata")]
